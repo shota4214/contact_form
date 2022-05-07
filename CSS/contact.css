@@ -1,0 +1,34 @@
+td .text{
+  width: 480px;
+  }
+  
+.textarea{
+  width: 480px;
+  }
+
+.contact th {
+  width: 150px;
+  height: 7rem;
+  text-align: right;
+  background-color: #fff;
+  color: #000000;
+  padding-right: 10px;
+}
+
+.contact td {
+  width: 480px;
+}
+
+.submit {
+text-align: center;
+}
+
+.submit input {
+  color: #FFFFFF;
+  background-color: #008B8B;
+  padding: 10px 10px;
+}
+
+.submit:hover {
+  opacity: 0.6;
+}
